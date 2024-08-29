@@ -1,0 +1,23 @@
+{
+  "name": "wwauto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin" : "wwauto.js",
+  "dependencies": {
+    "@nodegui/nodegui": "^0.67.0",
+    "macos-open-file-dialog": "^1.0.1",
+    "node-file-dialog": "^1.0.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.25.0"
+  }
+ 
+  
+  
+  
+}
